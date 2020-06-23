@@ -1,0 +1,12 @@
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\bin\Release\netcoreapp3.1\Multithreading.exe
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\bin\Release\netcoreapp3.1\Multithreading.deps.json
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\bin\Release\netcoreapp3.1\Multithreading.runtimeconfig.json
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\bin\Release\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\bin\Release\netcoreapp3.1\Multithreading.dll
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\bin\Release\netcoreapp3.1\Multithreading.pdb
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\obj\Release\netcoreapp3.1\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\obj\Release\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\obj\Release\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\obj\Release\netcoreapp3.1\Multithreading.dll
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\obj\Release\netcoreapp3.1\Multithreading.pdb
+C:\Users\Bohdan\source\repos\Multithreading\Multithreading\obj\Release\netcoreapp3.1\Multithreading.genruntimeconfig.cache
